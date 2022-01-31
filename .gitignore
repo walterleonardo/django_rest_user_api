@@ -1,0 +1,10 @@
+.*.pyc
+*.pyc
+.venv
+.idea
+.idea/*
+app/__pycache__/*.pyc
+app/__pycache__/settings.cpython-39.pyc
+core/__pycache__/models.cpython-39.pyc
+app/__pycache__
+
